@@ -84,9 +84,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=almamuntmn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almamuntmn&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=almamuntmn&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -106,7 +106,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=almamuntmn&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -116,7 +116,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=almamuntmn&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
 
 </p>
 
@@ -136,7 +136,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=38BDF8&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=almamuntmn&label=Profile+Views&color=38BDF8&style=for-the-badge"/>
 
 </p>
 
