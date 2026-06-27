@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Professional+Graphic+Designer;3000%2B+Completed+Projects;Learning+Full+Stack+Web+Development;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Building+Beautiful+and+Functional+Web+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Development;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Building+Beautiful+and+Functional+Web+Applications" />
 </p>
 
 ---
