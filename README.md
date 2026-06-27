@@ -1,4 +1,3 @@
-```md
 <p align="center">
   <img src="./banner.png" alt="Mamun Banner" width="100%" />
 </p>
@@ -153,4 +152,3 @@ Thanks for visiting my profile! ⭐
 <p align="center">
 I enjoy building clean, responsive, and user-friendly web applications while continuously expanding my knowledge of modern web technologies.
 </p>
-```
