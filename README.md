@@ -1,41 +1,50 @@
+```md
 <p align="center">
-  <img src="./Bnner.png" alt="Mamun Banner" width="100%">
+  <img src="./banner.png" alt="Mamun Banner" width="100%" />
 </p>
-<h1 align="center">Hi, I'm Mamun</h1>
+
+<h1 align="center">Hi 👋, I'm Mamun</h1>
 
 <h3 align="center">
-💻 Full-Stack Web Developer • 🚀 Open to Junior Developer Opportunities
+Full-Stack Web Developer • Passionate About Building Modern Web Applications
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Development;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Building+Beautiful+and+Functional+Web+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Always+Learning+Something+New+🚀" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/almamuntmn">
+    <img src="https://img.shields.io/github/followers/almamuntmn?label=Followers&style=for-the-badge&logo=github">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=almamuntmn&style=for-the-badge&color=0e75b6" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 💻 **Full-Stack Web Development**
-- 🌱 **React, Node.js, Express & MongoDB**
-- 🚀 Open to **Junior Frontend Developer** and **Junior Full-Stack Developer** roles
-- ❤️ Passionate about creating clean, modern, and user-friendly websites
-- 🎯 Goal: Build high-quality web applications that combine beautiful design with clean code
+- 🌱 Currently learning **React, Node.js, Express.js & MongoDB**
+- 💡 Passionate about building responsive and scalable web applications
+- 🚀 Looking for **Junior Frontend** and **Junior Full-Stack Developer** opportunities
+- 🎯 Working on personal projects to strengthen my development skills
+- ⚡ Fun fact: I enjoy turning ideas into clean, functional user experiences
 
 ---
 
-# 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN" target="(https://www.linkedin.com/in/almamun-cool/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+<a href="https://www.linkedin.com/in/almamun-cool/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48" />
 </a>
 
 <a href="mailto:almamuncool88@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="48" />
 </a>
 
-<a href="www.almamuncool.com">
-<img src="https://img.icons8.com/color/48/domain.png"/>
+<a href="https://www.almamuncool.com" target="_blank">
+<img src="https://img.icons8.com/color/48/domain.png" height="48"/>
 </a>
 </p>
 
@@ -43,116 +52,105 @@
 
 # 💻 Tech Stack
 
-### 🌐 Frontend
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### ⚙️ Backend
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+</p>
+
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### 🛠 Tools
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,ai,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
 </p>
 
 ---
 
-# 📚 Currently Learning
+## 📚 Current Focus
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-</p>
+- ⚛️ React
+- 🟢 Node.js
+- 🚀 Express.js
+- 🍃 MongoDB
+- 📦 REST APIs
+- 🔐 Authentication
+- 📱 Responsive Design
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description |
-|----------|-------------|
-| 💰 **Freano** | Money Management App for Freelancers |
-| 🌐 **Portfolio Website** | Personal Portfolio Website |
-| 🍔 **Restaurant Website** | Responsive Restaurant Website |
-| ⚛️ **React Projects** | React Practice Projects |
-| 📖 **JavaScript Projects** | JavaScript Learning Journey |
+|---------|-------------|
+| 💰 Freano | Personal Money Management App |
+| 🌐 Portfolio Website | My Personal Portfolio |
+| ⚛️ React Projects | React Learning Projects |
+| 📚 JavaScript Projects | JavaScript Practice |
+| 🍔 Restaurant Website | Responsive Restaurant Website |
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=almamuntmn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almamuntmn&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=almamuntmn&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=almamuntmn&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=almamuntmn&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
-
 </p>
 
 ---
 
-# 💡 Fun Facts
+## ⚡ Fun Facts
 
-- 🎨 Designing professionally since **2020**
-- 💻 Learning something new every day
-- 🐧 Linux enthusiast
-- ☕ Coffee + Code = Happiness
-- 🚀 Future Full-Stack Engineer
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=almamuntmn&label=Profile+Views&color=38BDF8&style=for-the-badge"/>
-
-</p>
+- 🐧 Linux Enthusiast
+- 💻 VS Code Lover
+- ☕ Coffee + Code = Productivity
+- 🚀 Lifelong Learner
+- 🌍 Based in Bangladesh
 
 ---
 
 <h3 align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
+Thanks for visiting my profile! ⭐
 </h3>
 
 <p align="center">
-
-<i>From designing brands for thousands of clients to building modern web applications — I'm combining creativity with code to create meaningful digital experiences.</i>
-
+I enjoy building clean, responsive, and user-friendly web applications while continuously expanding my knowledge of modern web technologies.
 </p>
+```
