@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./Bnner.png" alt="Mamun Banner" width="100%">
+</p>
 <h1 align="center">Hi, I'm Mamun</h1>
 
 <h3 align="center">
