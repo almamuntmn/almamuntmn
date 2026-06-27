@@ -9,7 +9,10 @@ Full-Stack Web Developer • Passionate About Building Modern Web Applications
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Always+Learning+Something+New+🚀" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Always+Learning+Something+New"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
