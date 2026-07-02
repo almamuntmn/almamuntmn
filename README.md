@@ -25,18 +25,18 @@ I care about clean UI, readable code, and shipping things that actually work —
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
 
@@ -54,8 +54,8 @@ I care about clean UI, readable code, and shipping things that actually work —
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=almamuntmn&show_icons=true&theme=default&hide_border=true&title_color=111111&text_color=333333&icon_color=555555" width="48%" alt="GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=almamuntmn&theme=default&hide_border=true&background=FFFFFF&ring=111111&fire=111111&currStreakLabel=111111" width="48%" alt="GitHub streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=almamuntmn&show_icons=true&hide_border=true" width="48%" alt="GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=almamuntmn&hide_border=true" width="48%" alt="GitHub streak"/>
 
 </div>
 
