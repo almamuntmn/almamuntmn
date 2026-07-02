@@ -62,6 +62,6 @@ I care about clean UI, readable code, and shipping things that actually work —
 
 <div align="center">
 
-<sub>Open to Junior Front-End / Full-Stack roles — remote, hybrid, or on-site.</sub>
+<sub>Open to Junior Front-End / Full-Stack roles — remote</sub>
 
 </div>
