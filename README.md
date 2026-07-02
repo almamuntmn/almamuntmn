@@ -54,7 +54,6 @@ I care about clean UI, readable code, and shipping things that actually work —
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=almamuntmn&show_icons=true&hide_border=true" width="48%" alt="GitHub stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=almamuntmn&hide_border=true" width="48%" alt="GitHub streak"/>
 
 </div>
