@@ -81,8 +81,15 @@ Expense and revenue tracker with Google Sheets OAuth integration and Bangladesh-
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=almamuntmn&show_icons=true&hide_border=true&theme=default" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=almamuntmn&hide_border=true" alt="GitHub streak"/>
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=almamuntmn&show_icons=true&hide_border=true&rank_icon=github"
+/>
+
+<img
+height="170"
+src="https://streak-stats.demolab.com?user=almamuntmn&hide_border=true"
+/>
 
 </div>
 
